@@ -18,7 +18,7 @@ import subprocess
 
 st.set_page_config(layout="wide")
 
-cfg_model_path = '/content/models/SafetyProtocol.pt'
+cfg_model_path = '/content/models/yolov5s-resnet50xSPPCSPC-640-32-best.pt'
 model = None
 confidence = .25
 
