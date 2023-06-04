@@ -28,3 +28,5 @@ psutil  # system utilization
 thop  # FLOPs computation
 streamlit
 wget
+webrtc_streamer
+av==8.0.3
