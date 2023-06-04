@@ -30,3 +30,4 @@ streamlit
 wget
 streamlit-webrtc
 av
+moviepy
