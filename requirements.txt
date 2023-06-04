@@ -28,5 +28,5 @@ psutil  # system utilization
 thop  # FLOPs computation
 streamlit
 wget
-webrtc_streamer
+streamlit-webrtc
 av
